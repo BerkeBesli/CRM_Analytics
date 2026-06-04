@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/BerkeBesli/CRM_Analytics/blob/main/CRMimage.png?raw=true)" alt="CRM Analytics Banner" width="800">
+  <img src="https://github.com/BerkeBesli/CRM_Analytics/blob/main/CRMimage.png?raw=true" alt="CRM Analytics Banner" width="800">
 </div>
 
 # CRM Analitiği (CRM Analytics)
