@@ -22,3 +22,23 @@ Analiz ortamını hazırlamak ve betikleri çalıştırmak için aşağıdaki Py
 
 ```bash
 pip install pandas numpy scikit-learn lifetimes openpyxl
+ ```
+
+## 🚀 Kullanım
+Her bir .py dosyası, uygulanan veri işleme adımlarını açıklayan detaylı yorum satırlarına sahiptir. Herhangi bir betiği çalıştırmak için terminal üzerinden ilgili dosyayı çağırabilirsiniz:
+```bash
+python 3-RFM-Segmentation.py
+ ```
+
+## Katkı Sağlama
+
+Eğer katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+
+1. Fork'layın
+2. Yeni bir branch oluşturun
+3. Yapacağınız değişiklikleri commit'leyin
+4. Pull request gönderin
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına bakın.
