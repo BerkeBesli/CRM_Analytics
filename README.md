@@ -4,7 +4,7 @@
 
 # CRM Analitiği (CRM Analytics)
 
-Bu depo, Müşteri İlişkileri Yönetimi (CRM) süreçlerinin veri analitiği yöntemleriyle incelendiği ve modellendiği Python betiklerini içermektedir. Proje, veri setleri üzerinden müşteri segmentasyonu ve yaşam boyu değeri tahminleme gibi analitik CRM problemlerini ele almaktadır.
+Bu depo, Müşteri İlişkileri Yönetimi (CRM) süreçlerinin veri analitiği yöntemleriyle incelendiği ve modellendiği Python kodları içermektedir. Proje, veri setleri üzerinden müşteri segmentasyonu ve yaşam boyu değeri tahminleme gibi analitik CRM problemlerini ele almaktadır.
 
 ## 📂 Proje İçeriği ve Dosya Yapısı
 
