@@ -2,7 +2,7 @@
   <img src="https://github.com/BerkeBesli/CRM_Analytics/blob/main/CRMimage.png?raw=true" alt="CRM Analytics Banner" width="800">
 </div>
 
-# CRM Analitiği (CRM Analytics)
+# CRM Analitiği
 
 Bu depo, Müşteri İlişkileri Yönetimi (CRM) süreçlerinin veri analitiği yöntemleriyle incelendiği ve modellendiği Python kodları içermektedir. Proje, veri setleri üzerinden müşteri segmentasyonu ve yaşam boyu değeri tahminleme gibi analitik CRM problemlerini ele almaktadır.
 
